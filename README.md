@@ -12,9 +12,9 @@ Esse é um pong game multiplataforma feito usando a biblioteca [Kivy](https://ki
 
 (PT-BR)
 * Faça o download dos arquivos um por um em um mesmo diretório ou clone o repositório utilizando o comando:
-  >`git clone https://github.com/jotapesp/pong-game`
+  >`git clone https://github.com/jotapesp/pong-game.git`
 
-* Faça a instalação das dependências listadas em `requirements.txt` manualmente ou utilize o comando:
+* Faça a instalação das dependências listadas em [`requirements.txt`](https://github.com/jotapesp/pong-game/blob/main/requirements.txt) manualmente ou utilize o comando:
   >`pip install -r requirements.txt`
 
 * Agora o jogo está pronto para rodar.
