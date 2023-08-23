@@ -23,7 +23,7 @@ Esse é um pong game multiplataforma feito usando a biblioteca [Kivy](https://ki
 
 (PT-BR)
 * Use o comando a seguir para iniciar o jogo após a instalação, no terminal, no diretório onde o repositório foi clonado/arquivos foram baixados:
-  > `python3 main.app`
+  > `python3 main.py`
 
 #### Como jogar
 
